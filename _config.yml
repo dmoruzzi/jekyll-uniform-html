@@ -11,4 +11,4 @@ customCSS: false # Import custom CSS?
 customJS: false # Import custom JS?
 
 sass:
-  style: compress
+  style: compressed
