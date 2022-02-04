@@ -9,3 +9,6 @@ customCSS: false # Import custom CSS?
 
 # JS Configuration settings
 customJS: false # Import custom JS?
+
+sass:
+  style: compress
